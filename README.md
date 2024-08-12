@@ -2,7 +2,7 @@
 ![logo](https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
 <h3 align="center">An Enthusiast DevOps Engineer From Pakistan</h3>
-<img align="right" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-Abbas-DevOps-Engineer/blob/main/devops.png"
+<img align="right" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/devops.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-devops&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-devops" /> </p>
 
 - 🌱 I’m currently working on **DevOps Tools: Kubernetes, Terraform, Docker, Ansible etc**
