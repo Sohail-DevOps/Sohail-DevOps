@@ -8,6 +8,7 @@
 - 🌱 I’m currently working on **DevOps Tools: Kubernetes, Terraform, Docker, Ansible etc**
 
 - 🤝 I’m looking for New Opprtunities in **DevOps**
+- **Here is My Resume : -** (https://flowcv.com/resume/gbvfqlih5f)
 
 - 📫 How to reach me **engsohail8826@gmail.com**
 
