@@ -16,6 +16,7 @@
   
 - 1- [🚀 End to End - K8s-voting-app Deployment Project! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_k8s-cloud-application-activity-7217286884333350916-SFTX?utm_source=share&utm_medium=member_desktop)
 - 2- [🚀 End to End - CI/CD Project! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_devops-ci-cd-activity-7216470257022955520-vxf-?utm_source=share&utm_medium=member_desktop)
+- 3- [🚀 End to End DevOps CI/CD Project - JAVA Based Application Deployment on Tomcat Server! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_devops-aws-maven-activity-7233969070822350848-imtq?utm_source=share&utm_medium=member_desktop)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
