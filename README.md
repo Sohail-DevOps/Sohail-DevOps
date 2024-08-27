@@ -18,6 +18,9 @@
 - 2- [🚀 End to End - CI/CD Project! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_devops-ci-cd-activity-7216470257022955520-vxf-?utm_source=share&utm_medium=member_desktop)
 - 3- [🚀 End to End DevOps CI/CD Project - JAVA Based Application Deployment on Tomcat Server! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_devops-aws-maven-activity-7233969070822350848-imtq?utm_source=share&utm_medium=member_desktop)
 
+<p><b>Cloud Certifications :- </b>.</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://github.com/sohail-devops/sohail-abbas-devops-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://github.com/sohail-devops/sohail-abbas-devops-engineer" height="30" width="40" /></a>
