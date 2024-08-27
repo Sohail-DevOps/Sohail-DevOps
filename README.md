@@ -19,7 +19,10 @@
 - 3- [🚀 End to End DevOps CI/CD Project - JAVA Based Application Deployment on Tomcat Server! 🚀](https://www.linkedin.com/posts/sohailabbasdevops_devops-aws-maven-activity-7233969070822350848-imtq?utm_source=share&utm_medium=member_desktop)
 
 <p><b>Cloud Certifications :- </b>.</p>
-
+<p><b>AZ-104:-</b></p>
+<img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ--104.png"
+<p><b>AZ-400:-</b></p>
+<img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ-400.png"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
