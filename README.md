@@ -21,7 +21,7 @@
 - 5- [🚀"Django App Deployment on Azure App Service!" 🚀 ](https://www.linkedin.com/posts/sohailabbasdevops_%E2%84%8D%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%9D%F0%9D%95%A0-%F0%9D%95%83%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%9C%F0%9D%95%96%F0%9D%95%95%F0%9D%95%80%F0%9D%95%9F-%F0%9D%94%BD%F0%9D%95%92%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%9D%F0%9D%95%AA-activity-7236753416343977984-7fX3?utm_source=share&utm_medium=member_desktop)
 <p><b>Cloud Certifications :- </b>.</p>
 <p><b>AZ-104:-</b></p>
-<img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ--104.png"
+<img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ-104.png"
 <p><b>AZ-400:-</b></p>
 <img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ-400.png"
 
