@@ -25,6 +25,13 @@
 <p><b>AZ-400:-</b></p>
 <img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ-400.png"
 
+<p><b>Cloud Computing Trainings :- </b>.</p>
+<p><b>I have taken Cloud Computing Training from Corvit Lahore by the Help of Akhuwat Foundations-</b></p>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://github.com/sohail-devops/sohail-abbas-devops-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://github.com/sohail-devops/sohail-abbas-devops-engineer" height="30" width="40" /></a>
