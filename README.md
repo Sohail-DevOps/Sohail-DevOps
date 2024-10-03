@@ -26,6 +26,9 @@
 <img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/AZ-400.png"
 
 <p><b>Trainings & Certifications </b>.</p>
+<p><b>DevOps Trainings :- </b>.</p>
+<p><b>I have taken DevOps Training from Corvit Lahore by the Help of Akhuwat Foundations-</b></p>
+<img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/Devops.jpeg"
 <p><b>Cloud Computing Trainings :- </b>.</p>
 <p><b>I have taken Cloud Computing Training from Corvit Lahore by the Help of Akhuwat Foundations-</b></p>
 <img align="*" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/Cloud.jpg"
