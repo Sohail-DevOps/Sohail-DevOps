@@ -5,6 +5,10 @@
 <img align="right" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/devops.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-devops&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-devops" /> </p>
 
+- 🌱 I’m currently working at **Punjab Safe Cities Authority** as an **IT Support Helpdesk Engineer[Linux System Admin Team]**
+- 🌱 Additionally, I am also working as a **Junior DevOps Engineer** as a Freelancer with my Client remotely.
+- 🌱 I’m currently taking training on **DevOps Tools: Kubernetes, Terraform, Docker, Ansible etc** by attaching with **Pinnacloud - A UK Based Organization**
+
 - 🌱 I’m currently working on **DevOps Tools: Kubernetes, Terraform, Docker, Ansible etc**
 
 - 🤝 I’m looking for New Opprtunities in **DevOps**
