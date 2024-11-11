@@ -1,5 +1,5 @@
 # Sohail Abbas [ Associate DevOps Engineer ]
-![logo](https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/GitHub_Banner.png)
+![logo](https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/LinkedIN%20Banner%20DevOps.png)
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
 <h3 align="center">An Enthusiast DevOps Engineer From Pakistan</h3>
 <img align="right" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/devops.png"
