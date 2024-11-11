@@ -7,7 +7,7 @@
 
 -** [**Professional Ecperience**: -]**
 
-- 🌱 I’m attached and currently working at **Punjab Safe Cities Authority** as an **IT Support Helpdesk Engineer[Linux System Admin Team]** since 2018.
+- 🌱 I’m working at **Punjab Safe Cities Authority** as an **IT Support Helpdesk Engineer[Linux System Admin Team]** since 2018.
 - 🌱 I’m currently taking training and also working as a **DevOps Engineer - Freelancer** on several **DevOps Tools: Terraform, Docker, Jenkins,  etc** with **Pinnacloud - A UK Based Organization**
 
 - 🤝 I’m looking for New Opprtunities in **DevOps**
