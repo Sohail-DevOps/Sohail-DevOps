@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
 <h3 align="center">An Enthusiast DevOps Engineer From Pakistan</h3>
 <img align="right" alt="DevOps" width="400" src="https://github.com/Sohail-DevOps/Sohail-DevOps/blob/main/devops.png"
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail-devops&label=Profile%20views&color=0e75b6&style=flat" alt="sohail-devops" /> </p>
 
 -** [**Professional Ecperience**: -]**
