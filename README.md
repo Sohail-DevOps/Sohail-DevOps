@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sohail-devops&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
-- 👨‍💻 **All of my projects are available at** [https://github.com/Sohail-DevOps]
+- 👨‍💻 **All of my projects are available at [https://github.com/Sohail-DevOps]**
 
 
 ## 👨‍💻 Professional Experience
