@@ -21,7 +21,7 @@
 
 🤝 Actively looking for new opportunities in **DevOps**!  
 
-📄 **[My Resume](https://drive.google.com/file/d/11vVJZUSKOvIgsS9-ivhB15aqDBvKnKCw/view?usp=sharing)**
+📄 **[My Resume](https://drive.google.com/file/d/1_FUAvmTNBn2BTrATQNrWHdgch7d6bAM6/view?usp=sharing)**
 
 📧 Reach me at **engsohail8826@gmail.com**
 
